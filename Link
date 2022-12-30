@@ -1,0 +1,17 @@
+{
+  "title": "Ejipuri",
+  "description": "Kou is a handsome high school boy who normally can't stand girls, but he falls head over heels for Cleo, a genuine modern-day mural-girl who walks like an Egyptian! A blast from the past 5000 years in the making, it's the Egypti-est romantic comedy around!",
+  "artist": "Naoda Tsuboko",
+  "author": "Naoda Tsuboko",
+  "cover": "https://i.imgur.com/wGj95CQ.png",
+  "chapters": {
+    "1": {
+      "title": "Something's Wrong With My Best Friend",
+      "volume": "1",
+      "groups": {
+        "NotGoodSomeSayBad": "/proxy/api/imgur/chapter/1pRY88h/"
+      },
+      "last_updated": "1672442452"
+    },
+  }
+}
