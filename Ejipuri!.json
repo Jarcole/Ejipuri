@@ -4,5 +4,14 @@
   "artist": "Naoda Tusboko",
   "author": "Naoda Tusboko",
   "cover": "https://i.imgur.com/wGj95CQ.png",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1672442933",
+      "groups": {
+        "NotGoodSomeSayBad": "/proxy/api/imgur/chapter/1pRY88h"
+      }
+    }
+  }
 }
