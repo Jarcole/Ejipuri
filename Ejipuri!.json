@@ -12,6 +12,22 @@
       "groups": {
         "NotGoodSomeSayBad": "/proxy/api/imgur/chapter/1pRY88h"
       }
+    },
+    "2": {
+      "title": "I'll Become a Mummy",
+      "volume": "1",
+      "last_updated": "1672686089",
+      "groups": {
+        "NotGoodSomeSayBad": "/proxy/api/imgur/chapter/MKBGuaz"
+      }
+    },
+    "3": {
+      "title": "Mural-Girl Cleo",
+      "volume": "1",
+      "last_updated": "1672686125",
+      "groups": {
+        "NotGoodSomeSayBad": "/proxy/api/imgur/chapter/EPHgg32"
+      }
     }
   }
 }
