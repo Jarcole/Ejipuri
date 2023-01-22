@@ -28,6 +28,14 @@
       "groups": {
         "NotGoodSomeSayBad": "/proxy/api/imgur/chapter/EPHgg32"
       }
+    },
+    "4": {
+      "title": "Street Corner Snap",
+      "volume": "1",
+      "last_updated": "1674425564",
+      "groups": {
+        "NotGoodSomeSayBad": "/proxy/api/imgur/chapter/St8jqdX"
+      }
     }
   }
 }
